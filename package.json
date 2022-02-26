@@ -1,0 +1,13 @@
+{
+    "name": "terraform_hands_on",
+    "version": "1.0.0",
+    "license": "MIT",
+    "private": true,
+    "scripts": {
+        "lint": "textlint --fix README.md"
+    },
+    "dependencies": {
+        "textlint": "^12.1.1",
+        "textlint-rule-preset-smarthr": "^1.11.3"
+    }
+}
