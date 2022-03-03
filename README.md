@@ -1,4 +1,4 @@
-# AWS Vault + AWS CLI for Docker
+# AWS Vault + Docker版AWS CLI
 
 # 事前インストール
 
